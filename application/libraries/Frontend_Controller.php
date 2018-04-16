@@ -8,7 +8,7 @@ class Frontend_Controller extends MY_Controller
 	function __construct ()
 	{
 		parent::__construct();
-		//var_dump('Witaj w frontend');
+		var_dump('Witaj w frontend');
 		// Load stuff
 		//$this->load->model('page_m');
 		//$this->load->model('page_model');
