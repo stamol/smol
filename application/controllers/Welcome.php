@@ -38,6 +38,6 @@ class Welcome extends Frontend_Controller {
 	}
     public function pages()
     {
-
+echo "lllll";
     }
 }
